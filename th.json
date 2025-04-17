@@ -1,0 +1,6 @@
+{
+    "click": "คลิก",
+    "confirm":"ยืนยัน",
+    "name_description": "ฉันชื่อ {%s} และอายุของฉันคือ {%s}",
+    "order_description": "ปริมาณการสั่งซื้อรายเดือน {month_total}, ปริมาณการสั่งซื้อ {count}"
+}

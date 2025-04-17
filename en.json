@@ -1,0 +1,6 @@
+{
+    "click": "Click",
+    "confirm":"Confirm",
+    "name_description": "my name is {%s}, age is {%s}",
+    "order_description": "order count is {count}, month total is {month_total}"
+}
